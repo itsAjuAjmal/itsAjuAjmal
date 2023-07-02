@@ -12,6 +12,6 @@
 
 🌍 Let's connect and collaborate on exciting projects that challenge the status quo and shape the future of technology. I'm open to new opportunities, so feel free to reach out and let's make an impact together!
 
-📫 You can reach me at [your contact information], or check out my portfolio and other projects at.... website or GitHub profile URL.
+📫 You can reach me at ajmalfaris333&gmail.com , or check out my portfolio and other projects at.... website or GitHub profile URL.
 
 
