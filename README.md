@@ -31,7 +31,7 @@
 
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ajmalfaris333&label=Profile%20Views&color=3&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=itsAjuAjmal&label=Profile%20Views&pretty=true" />
 </a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
