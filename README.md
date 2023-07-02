@@ -29,5 +29,9 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ajuajmal) 
 
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ajmalfaris333&label=Profile%20Views&color=3&icon=0&pretty=true" />
+</a>
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
